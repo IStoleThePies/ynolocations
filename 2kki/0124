@@ -172,7 +172,7 @@
 		"0223": { "title": "Urotsuki's Balcony", "urlTitle": "Urotsuki's_Room#Urotsuki's_Balcony", "explorer": false },
 		"0225": { "title": "Urotsuki's Balcony", "urlTitle": "Urotsuki's_Room#Urotsuki's_Balcony", "explorer": false },
 		"0230": { "title": "Developer Room", "urlTitle": "Developer_Room", "explorer": false },
-		"0232": "Spelling Room",
+		"0232": "Spelling Room: Eyeball Room",
 		"0234": "Blood World",
 		"0235": [
 			{ "title": "Bowling Zone", "coords": { "x1": 0, "y1": -1, "x2": 6, "y2": -1 } },
